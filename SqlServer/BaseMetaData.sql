@@ -1,3 +1,5 @@
+-- generate base metadata of database
+
 DECLARE @db_name VARCHAR(max)
 DECLARE @db_id INT
 BEGIN
